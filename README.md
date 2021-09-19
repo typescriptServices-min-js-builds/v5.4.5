@@ -1,3 +1,5 @@
+The minified file is available at https://typescriptservices-min-js-builds.github.io/v4.4.3/dist/typescriptServices.min.js
+
 Generated with:
 ```bash
 npx terser --compress --mangle -- ./node_modules/typescript/lib/typescriptServices.js > dist/typescriptServices.min.js

@@ -1,4 +1,4 @@
-The minified file is available at https://typescriptservices-min-js-builds.github.io/v4.4.3/dist/typescriptServices.min.js
+The minified file is available at https://typescriptServices-min-js-builds.github.io/v4.4.3/dist/typescriptServices.min.js
 
 This repository holds a `typescriptServices.js` module minified with webpack.
 

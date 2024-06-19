@@ -1,8 +1,8 @@
 {
-  "name": "typescript-services-min-js",
-  "version": "4.4.3",
-  "description": "This package holds a minified version of typescriptServices.js to efficiently import it in browser",
+  "name": "typescript-min-js",
+  "version": "5.4.5",
+  "description": "This package holds a minified version of typescript.js to efficiently import it in browser",
   "devDependencies": {
-    "typescript": "4.4.3"
+    "typescript": "5.4.5"
   }
 }
